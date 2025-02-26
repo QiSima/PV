@@ -7,7 +7,6 @@ This is the origin Pytorch implementation of the paper "Multi-scale Fused Graph 
 * pandas == 0.25.1
 * scikit_learn == 0.21.3
 * torch == 1.8.0
-* sklearn
 # Acknowledgement
 This work was supported by the Natural Science Foundation of China under Project Nos. 72242104 and the Postdoctoral Science Foundation under Project Nos. 2024M761027.
 # Citation
